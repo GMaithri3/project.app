@@ -4,6 +4,7 @@ numpy
 matplotlib
 nltk==3.8.1
 seaborn
-
+scikit-learn==1.5.1
 
 # Add more as needed
+
