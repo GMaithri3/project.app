@@ -3,4 +3,7 @@ pandas
 numpy
 matplotlib
 nltk==3.8.1
+seaborn
+
+
 # Add more as needed
