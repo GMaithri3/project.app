@@ -7,7 +7,6 @@ import re
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
-import plotly.express as px
 from wordcloud import WordCloud
 import io
 import numpy as np
@@ -349,4 +348,5 @@ st.sidebar.download_button('Download Analyzed Dataset', csv, 'analyzed_reviews.c
 
 # Footer
 st.markdown('---')
+
 st.markdown('**Project: NLP Sentiment Analysis using VADER and ML Models** | **Deployment: Streamlit App**')
