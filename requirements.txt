@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+nltk==3.8.1
+# Add more as needed
