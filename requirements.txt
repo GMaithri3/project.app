@@ -2,9 +2,10 @@ streamlit
 pandas
 numpy
 matplotlib
-nltk==3.8.1
+nltk
 seaborn
-scikit-learn==1.5.1
+scikit-learn
 
 # Add more as needed
+
 
